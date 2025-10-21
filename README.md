@@ -1,22 +1,42 @@
+# 👋 欢迎来到我的 GitHub
 
-<p align="left">
-  <img src="./174E82B9-D945-49F9-88BE-9824A10C35FC.png" alt="个人博客网站已下线，该图留给极客青春" width="820">
-</p>
-<p>
-  个人博客网站已下线，该图留给极客青春
-</p>
-<br/>
+<div align="center">
+  <img src="./174E82B9-D945-49F9-88BE-9824A10C35FC.png" alt="个人博客网站已下线，该图留给极客青春" width="800">
+  <p><em>个人博客网站已下线，该图留给极客青春</em></p>
+</div>
 
-![](https://raw.githubusercontent.com/swhmonster/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/swhmonster/github-stats/master/generated/languages.svg)
+---
 
-</a>
+## 📊 GitHub 统计
 
-<p align="left">
-  <img src="./wechat_scan.png" alt="图片描述" width="820">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/swhmonster/github-stats/master/generated/overview.svg" alt="GitHub Overview Stats" width="400">
+  <img src="https://raw.githubusercontent.com/swhmonster/github-stats/master/generated/languages.svg" alt="Top Languages" width="400">
+</div>
 
-### 公众号简介
-- 专注于Java、Kotlin、Scala、Python、Go、Rust等开发语言进阶使用分享
-- 云原生应用实战、分布式服务架构、设计模式剖析、领域驱动设计实践、区块链技术应用等方向探索及落地
-- AI探索
+---
+
+## 📱 关注我的公众号
+
+<div align="center">
+  <img src="./wechat_scan.png" alt="微信公众号二维码" width="300">
+</div>
+
+### 🚀 公众号简介
+
+> **专业技术分享，助力开发者成长**
+
+- **💻 编程语言进阶**  
+  专注于 Java、Kotlin、Scala、Python、Go、Rust 等开发语言的进阶使用分享
+
+- **☁️ 架构与实践**  
+  云原生应用实战、分布式服务架构、设计模式剖析、领域驱动设计实践、区块链技术应用等方向的探索及落地
+
+- **🤖 AI 技术探索**  
+  人工智能前沿技术研究与应用实践
+
+---
+
+<div align="center">
+  <strong>🌟 如果觉得有帮助，请给个 Star ⭐</strong>
+</div>
