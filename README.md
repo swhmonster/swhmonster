@@ -19,7 +19,7 @@
 ## 📱 关注我的公众号
 
 <div align="center">
-  <img src="./wechat_scan.png" alt="微信公众号二维码" width="300">
+  <img src="./wechat_scan.png" alt="微信公众号二维码" width="820">
 </div>
 
 ### 🚀 公众号简介
