@@ -7,6 +7,9 @@
 
 ![](https://raw.githubusercontent.com/swhmonster/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/swhmonster/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/swhmonster/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/swhmonster/github-stats/master/generated/languages.svg#gh-light-mode-only)
 </a>
 
 <p align="left">
